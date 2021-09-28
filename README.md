@@ -1,2 +1,2 @@
 # fsociety
-Using from fsociety instrument 
+Fsociety instrument :)
